@@ -1,4 +1,4 @@
-export class Registration {
+export class RegistrationEntitie {
   nickname: string;
   email: string;
   password: string;
